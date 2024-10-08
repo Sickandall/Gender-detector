@@ -4,12 +4,7 @@ IP Webcam Gender Classification Using OpenCV and DNN Models
 ## Tech Stack
 
 **Client:** Python, Deep Learning (DNN), P Webcam
-
-
-
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![cam](https://github.com/user-attachments/assets/1d7499bc-5eae-4f96-b195-fad45a5603eb)
 
 
 ## Features:
