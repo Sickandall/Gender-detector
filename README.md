@@ -3,7 +3,7 @@ IP Webcam Gender Classification Using OpenCV and DNN Models
 :-  This Python project performs real-time gender classification using an IP webcam stream. It leverages deep learning models for face detection and gender prediction. The project uses OpenCV's DNN module and pre-trained models to detect faces and classify gender (Male or Female) with a majority voting mechanism to smooth predictions across frames.
 ## Tech Stack
 
-**Client:** Python, Deep Learning (DNN), P Webcam
+**Client:** Python, Deep Learning (DNN), IP Webcam
 ![cam](https://github.com/user-attachments/assets/1d7499bc-5eae-4f96-b195-fad45a5603eb)
 
 
